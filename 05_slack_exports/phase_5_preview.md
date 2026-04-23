@@ -1,7 +1,7 @@
 # Phase 5 — Pilot + Hiccup #1 (archive)
 
 **Slack channel:** `C0A6ZJ9NH5E`  
-**Phase 5 parent `ts`:** *(filled after post — Jarod pilot kickoff, new thread)*
+**Phase 5 parent `ts`:** `1776921561.477649` (Jarod pilot kickoff)
 
 ## Summary
 

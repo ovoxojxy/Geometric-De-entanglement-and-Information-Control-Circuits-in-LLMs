@@ -12,7 +12,7 @@
    - Phase 2 parent: `1776917326.872159` (lit review / scoping).  
    - Phase 3 parent: `1776917863.943389` (methods v1 + parking lot).  
    - Phase 4 parent: `1776920017.706679` (Zoom 1).  
-   - **Phase 5 parent:** see `05_slack_exports/phase_5_preview.md` (pilot + Hiccup #1).
+   - **Phase 5 parent:** `1776921561.477649` (pilot + Hiccup #1).
 
 4. **Phase 4 decisions (still binding until v2 supersedes)**  
    - Leakage table: KL primary; Δentropy + repeat; recover/judge tertiary.  
