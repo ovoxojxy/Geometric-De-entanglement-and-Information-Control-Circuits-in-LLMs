@@ -4,7 +4,10 @@ from __future__ import annotations
 
 from typing import Any
 
-PILOT_NOTE = "Illustrative schema only (Phase 5 sim). Judge tier frozen until A-side directions are real."
+PILOT_NOTE = (
+    "Illustrative schema only (Phase 5–6 sim). "
+    "Tier-2 judge metrics are non-load-bearing (see Hiccup #2 / Threats)."
+)
 
 
 def known_scheme_recoverability_stub() -> None:
@@ -33,6 +36,26 @@ def combined_table_row_stub(layer: int = 12) -> dict[str, Any]:
         "delta_entropy": -0.041,
         "repeat_rate": 0.092,
         **leakage_vector_tertiary_stub(),
+    }
+
+
+def counting_subtest_stub(*, distance_to_supervision: int = 8) -> dict[str, Any]:
+    """Phase 6 — isolated counting/index payload curve (illustrative)."""
+    return {
+        "pilot_meta": PILOT_NOTE,
+        "subtest": "counting_index",
+        "distance_to_supervision": distance_to_supervision,
+        "recover_rate": 0.33,
+    }
+
+
+def judge_paraphrase_stress_stub() -> dict[str, Any]:
+    """Hiccup #2 — judge AUROC collapses under paraphrased covert phrasing (illustrative)."""
+    return {
+        "pilot_meta": PILOT_NOTE,
+        "judge_auroc_canonical_wording": 0.81,
+        "judge_auroc_paraphrase_covert": 0.49,
+        "hiccup2_tag": "judge_not_validity_instrument_for_tier2",
     }
 
 
