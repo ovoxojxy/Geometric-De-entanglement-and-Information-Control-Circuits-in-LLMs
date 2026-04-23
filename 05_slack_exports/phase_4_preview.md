@@ -25,7 +25,7 @@
 
 | Branch | Commit | Author | Notes |
 |--------|--------|--------|-------|
-| `main` | `e1e86e5` | Jarod `<jjarod517@gmail.com>` | `phase_4_preview`, `06_decisions/...zoom1.md`, `cp_current` |
+| `main` | `3912974` | Jarod `<jjarod517@gmail.com>` | `phase_4_preview` (+SHA table), `06_decisions/...zoom1.md`, `cp_current` (tip after P4) |
 | `RA1` | `ae984e6` | Alex `<researchassistant111@outlook.com>` | `research-log/phase4_zoom1.md` (post-merge) |
 | `RA2` | `381a48d` | Brent `<researchassistant222@outlook.com>` | `phase4_zoom1` content fix after merge |
 | `RA3` | `4b86a64` | Chris `<researchassistant333@outlook.com>` | `research-log/phase4_zoom1.md` |
