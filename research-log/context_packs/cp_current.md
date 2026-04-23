@@ -1,6 +1,6 @@
 # Current Context Pack — GeomDeent
 
-**Active phase:** P2 — Lit review + scoping (in progress).
+**Active phase:** P2 — Lit review + scoping (**complete**). Next: P3 methods v1 (await PI go-ahead).
 
 1. **Goal**  
    Geometry-aware directions + circuit interventions → less entanglement, less leakage, less covert capacity, without trashing LM performance.
@@ -16,4 +16,7 @@
    - Google Doc: *GeomDeent — Scope & Reading Queue v0.1* (link in Slack Phase 2 thread).
 
 5. **Next**  
-   Phase 3 — methods v1 + intentional clash (do not start until PI says go).
+   Phase 3 — methods v1 + intentional clash (**do not start until PI says go**).
+
+6. **Slack thread for Phase 2**  
+   Parent `ts`: `1776917326.872159` (use this for Phase 2 backscroll, not the Phase 1 kickoff thread).
