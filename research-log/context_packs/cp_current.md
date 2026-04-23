@@ -1,22 +1,24 @@
 # Current Context Pack — GeomDeent
 
-**Active phase:** P2 — Lit review + scoping (**complete**). Next: P3 methods v1 (await PI go-ahead).
+**Active phase:** P3 — Methods v1 (**complete**; disagreements **parked**, not resolved). Next: P4 Zoom 1 (await PI go-ahead).
 
 1. **Goal**  
-   Geometry-aware directions + circuit interventions → less entanglement, less leakage, less covert capacity, without trashing LM performance.
+   Same as `00_project_scope.md`: geometry-aware directions + circuit interventions → less leakage / covert capacity without wrecking LM performance.
 
 2. **Primitives**  
-   Concept geometry (Alex) · Information-flow circuits (Brent) · Covert-channel capacity (Chris).
+   A geometry · B circuits/leakage · C covert capacity (notation: report collateral across all three).
 
-3. **Scoping decision (Phase 2)**  
-   Steg stays **in** for v0.1 but **tiered** (known-scheme core; blind judge exploratory + caveats). Brent’s “drop steg” push was overruled.
+3. **Slack thread refs**  
+   - Phase 2 parent: `1776917326.872159` (lit review / scoping).  
+   - Phase 3 parent: `1776917863.943389` (methods v1 + parking lot).
 
-4. **Artifacts**  
-   - Git: `04_related_work/reading_queue.md` on `RA1` / `RA2` / `RA3` (mirrored content, RA-authored commits).  
-   - Google Doc: *GeomDeent — Scope & Reading Queue v0.1* (link in Slack Phase 2 thread).
+4. **Phase 3 artifacts**  
+   - `03_methods/methods_v1.md` + `experiments/ra{1,2,3}_*_stub.py` on RA branches (see `05_slack_exports/phase_3_preview.md` for SHAs).
 
-5. **Next**  
-   Phase 3 — methods v1 + intentional clash (**do not start until PI says go**).
+5. **Parking lot (unresolved)**  
+   - **L-local vs smeared:** ladder-at-L (Alex) vs residual rewrites (Brent).  
+   - **Joint metric:** likely vector **(KL, recover, judge-flip)** not a single scalar (Chris + thread consensus).  
+   - **Patching obligation:** Brent must name edges that rewrite Alex’s representation if both stories stay in-frame.
 
-6. **Slack thread for Phase 2**  
-   Parent `ts`: `1776917326.872159` (use this for Phase 2 backscroll, not the Phase 1 kickoff thread).
+6. **Next**  
+   Phase 4 — simulated Zoom + meeting notes doc + resolve leakage metric / layer scope / toy model (per plan). **Do not start until PI says go.**
