@@ -21,6 +21,15 @@
 **Google Doc #2:** https://docs.google.com/document/d/1tRN_QgL27Y_UcWrq_6RXN6sZlR3JMkFRhjoAysSXwds/edit  
 **documentId:** `1tRN_QgL27Y_UcWrq_6RXN6sZlR3JMkFRhjoAysSXwds`
 
+## Git (GeomDeent repo)
+
+| Branch | Commit | Author | Notes |
+|--------|--------|--------|-------|
+| `main` | `e1e86e5` | Jarod `<jjarod517@gmail.com>` | `phase_4_preview`, `06_decisions/...zoom1.md`, `cp_current` |
+| `RA1` | `ae984e6` | Alex `<researchassistant111@outlook.com>` | `research-log/phase4_zoom1.md` (post-merge) |
+| `RA2` | `381a48d` | Brent `<researchassistant222@outlook.com>` | `phase4_zoom1` content fix after merge |
+| `RA3` | `4b86a64` | Chris `<researchassistant333@outlook.com>` | `research-log/phase4_zoom1.md` |
+
 ### Thread index
 
 | `ts` | Who | Summary |
