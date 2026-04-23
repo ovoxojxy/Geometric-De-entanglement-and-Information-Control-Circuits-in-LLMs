@@ -26,4 +26,4 @@
 
 ## Slack thread volume
 
-- Parent + **19** thread replies on `1776921561.477649` (pilot rows → Hiccup #1 template leakage → doc append → drawing board).
+- Parent + **20** thread replies on `1776921561.477649` (pilot rows → Hiccup #1 template leakage → doc append → drawing board → main archive pointer).
