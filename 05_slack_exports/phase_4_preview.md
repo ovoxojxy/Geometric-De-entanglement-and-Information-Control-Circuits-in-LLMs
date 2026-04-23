@@ -23,11 +23,11 @@
 
 ## Git (GeomDeent repo)
 
-| Branch | Commit | Author | Notes |
-|--------|--------|--------|-------|
-| `main` | `6044390` | Jarod `<jjarod517@gmail.com>` | `phase_4_preview` (+SHA table), `06_decisions/...zoom1.md`, `cp_current` (P4 tip) |
+| Branch | Commit (at export) | Author | Notes |
+|--------|-------------------|--------|-------|
+| `main` | `git pull` for tip | Jarod `<jjarod517@gmail.com>` | `phase_4_preview`, `06_decisions/meeting_notes_2026-04-22_zoom1.md`, `cp_current` |
 | `RA1` | `ae984e6` | Alex `<researchassistant111@outlook.com>` | `research-log/phase4_zoom1.md` (post-merge) |
-| `RA2` | `381a48d` | Brent `<researchassistant222@outlook.com>` | `phase4_zoom1` content fix after merge |
+| `RA2` | `381a48d` | Brent `<researchassistant222@outlook.com>` | `research-log/phase4_zoom1.md` |
 | `RA3` | `4b86a64` | Chris `<researchassistant333@outlook.com>` | `research-log/phase4_zoom1.md` |
 
 ### Thread index

@@ -24,8 +24,8 @@
    - Local mirror: `06_decisions/meeting_notes_2026-04-22_zoom1.md`.
 
 6. **Git (post–Phase 4)**  
-   - `main` @ `6044390`: `05_slack_exports/phase_4_preview.md` (includes Slack index + SHA table), `06_decisions/meeting_notes_2026-04-22_zoom1.md`, this `cp_current.md`.  
-   - `RA1` `ae984e6`, `RA2` `381a48d`, `RA3` `4b86a64`: `research-log/phase4_zoom1.md`.
+   - `main`: Phase 4 wrap commits include `05_slack_exports/phase_4_preview.md`, `06_decisions/meeting_notes_2026-04-22_zoom1.md`, this `cp_current.md` — pull `origin/main` for the current tip.  
+   - `RA1` @ `ae984e6`, `RA2` @ `381a48d`, `RA3` @ `4b86a64`: `research-log/phase4_zoom1.md`.
 
 7. **Next**  
    Phase 5 — pilot scaffolding + illustrative numbers + **HiccUP-1** (template-feature leakage) + append failure modes to Google Doc #1. **Do not start until PI says go.**
