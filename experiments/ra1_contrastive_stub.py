@@ -41,5 +41,21 @@ def run_pilot_stub_print() -> None:
     print(row)
 
 
+def v2_shell_pool_stub() -> list[str]:
+    """Placeholder pool labels for template-randomized envelopes (Phase 6)."""
+    return ["closing_Answer", "closing_Final", "no_closing", "bracket_square", "bracket_paren"]
+
+
+def illustrative_v2_geometry_row(*, layer: int = 12) -> dict[str, Any]:
+    """Post–Hiccup-1 v2 stub row: cosines after template-randomized shells (illustrative)."""
+    return {
+        "pilot_meta": PILOT_NOTE + " Phase 6 v2 stub.",
+        "layer": layer,
+        "shell_pool": "v2_pool_v0",
+        "cosine_sent_country_after_template_ablation": 0.20,
+        "gates_passed": ["shuffled_endings", "label_shuffled_nuisance"],
+    }
+
+
 if __name__ == "__main__":
     run_pilot_stub_print()
