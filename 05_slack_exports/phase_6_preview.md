@@ -1,7 +1,7 @@
 # Phase 6 — Zoom 2 + methods v2 + experiments + Hiccup #2 (archive)
 
 **Slack channel:** `C0A6ZJ9NH5E`  
-**Phase 6 parent `ts`:** *(after Jarod post)*
+**Phase 6 parent `ts`:** `1776924155.200649`
 
 ## Summary
 
@@ -19,6 +19,10 @@
 | `RA2` | `feb6d18` | Brent | merge RA1 + linkage probe stub |
 | `RA3` | `89a0b95` | Chris | merge RA1 + counting + judge stress stub |
 | `main` | `git pull` for tip | Jarod | `phase_6_preview`, `cp_current`, optional `06_decisions/hiccup2_summary.md` |
+
+## Slack thread volume
+
+- Parent + **18** thread replies on `1776924155.200649` (methods v2 lock → judge paraphrase hiccup → Doc #3 + Threats on Doc #1).
 
 ## Local
 
