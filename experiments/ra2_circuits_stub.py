@@ -38,5 +38,19 @@ def run_pilot_stub_print() -> None:
     print(illustrative_leakage_row_stub())
 
 
+def circuit_direction_linkage_probe_stub(*, layer: int = 12) -> dict[str, Any]:
+    """Phase 6 — dummy edge set S(d) that co-moves with direction projection (illustrative)."""
+    return {
+        "pilot_meta": PILOT_NOTE + " Phase 6 linkage stub.",
+        "layer_L": layer,
+        "S_d_edges": [
+            f"attn_L{layer}_H3",
+            f"mlp_L{layer}_neuron_band_12",
+            f"attn_L{layer + 1}_H7",
+        ],
+        "note": "Real run would optimize masked writes; this is placeholder topology.",
+    }
+
+
 if __name__ == "__main__":
     run_pilot_stub_print()
